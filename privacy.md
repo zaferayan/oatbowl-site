@@ -22,9 +22,13 @@ The profile is used only to estimate a daily calorie target and to hide recipes 
 
 ## What we receive
 
-Nothing. This version of OatBowl makes no network requests with your information, has no sign-in, and includes no analytics or crash reporting that sends data off your device. Recipe photos are bundled with the app.
+Nothing. Apart from Apple's own purchase system, this version of OatBowl makes no network requests with your information, has no sign-in, and includes no analytics or crash reporting that sends data off your device. Recipe photos are bundled with the app.
 
 Your device's own backups (for example iCloud Backup) may include the app's data, depending on your device settings. That is handled by Apple under your Apple account, not by us.
+
+## Subscriptions
+
+OatBowl Premium is an optional auto-renewable subscription sold through the App Store. Apple handles the payment and your Apple ID; we never receive your name, email or payment details. To know whether Premium is active, the app asks StoreKit on your device, and the answer stays on your device. You can manage or cancel the subscription in your App Store account settings.
 
 ## Health information
 
@@ -71,9 +75,13 @@ Profil bilgileri yalnızca günlük kalori hedefini tahmin etmek ve tercihlerini
 
 ## Bize ulaşan veriler
 
-Hiçbiri. OatBowl'un bu sürümü bilgilerinizle herhangi bir ağ isteği yapmaz, giriş gerektirmez ve cihazınızdan veri gönderen bir analitik ya da hata raporlama aracı içermez. Tarif fotoğrafları uygulamanın içinde gelir.
+Hiçbiri. Apple'ın kendi satın alma sistemi dışında OatBowl'un bu sürümü bilgilerinizle herhangi bir ağ isteği yapmaz, giriş gerektirmez ve cihazınızdan veri gönderen bir analitik ya da hata raporlama aracı içermez. Tarif fotoğrafları uygulamanın içinde gelir.
 
 Cihazınızın kendi yedekleri (örneğin iCloud Yedekleme), cihaz ayarlarınıza bağlı olarak uygulamanın verilerini içerebilir. Bu yedekler Apple hesabınız kapsamında Apple tarafından yönetilir, bizim tarafımızdan değil.
+
+## Abonelikler
+
+OatBowl Premium, App Store üzerinden satılan isteğe bağlı, otomatik yenilenen bir aboneliktir. Ödemeyi ve Apple kimliğinizi Apple yönetir; adınız, e-postanız ya da ödeme bilgileriniz bize hiçbir zaman ulaşmaz. Uygulama Premium'un etkin olup olmadığını cihazınızdaki StoreKit'e sorar ve bu bilgi cihazınızda kalır. Aboneliğinizi App Store hesap ayarlarınızdan yönetebilir ya da iptal edebilirsiniz.
 
 ## Sağlık bilgileri
 
