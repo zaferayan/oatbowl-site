@@ -3,8 +3,6 @@ title: OatBowl Privacy Policy
 permalink: /privacy/
 ---
 
-# OatBowl Privacy Policy
-
 _Effective date: 19 September 2026_
 
 ## In short

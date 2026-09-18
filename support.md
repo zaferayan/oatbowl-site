@@ -3,8 +3,6 @@ title: OatBowl Support
 permalink: /support/
 ---
 
-# OatBowl Support
-
 OatBowl is an oat recipe app with macro-counted recipes, a personal calorie target and a daily plan. Everything is stored on your phone; there is no account.
 
 ## Getting help
